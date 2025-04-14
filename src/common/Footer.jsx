@@ -38,7 +38,7 @@ function Footer() {
                 {/* Right Side  */}
                 <div>
                     <h4 className="font-semibold text-xl mb-3">Contact Details</h4>
-                    <p className="hover:text-orange-500 transition-all duration-300 transform hover:translate-x-2">+91 9876543210</p>
+                    <p className="hover:text-orange-500 transition-all duration-300 transform hover:translate-x-2">+91 9898534789</p>
                     <p className="hover:text-orange-500 transition-all duration-300 transform hover:translate-x-2">MyTour@gmail.com</p>
                 </div>
             </div>
